@@ -40,3 +40,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "test1111110010101010"
           heroku_email: "https://test1111110010101010.herokuapp.com"
+          branch: main
